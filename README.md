@@ -25,13 +25,6 @@ The test plan can include:
 * Response Time Analysis
 * Results Tree
 
-Project Structure
-
-jmeter-performance-testing/
-│
-├── HTTPS test.jmx
-└── README.md
-
 How to Run
 
 1. Install Apache JMeter.
@@ -54,9 +47,5 @@ The following performance metrics can be analyzed:
 Test Results
 
 Test execution results can be added here after running the scenario.
-
-Author
-
-QA Engineer | Performance Testing
 
 Tools: Apache JMeter | Docker | GitHub
